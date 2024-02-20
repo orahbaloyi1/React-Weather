@@ -54,6 +54,13 @@ export default function App() {
             ></img>
           </li>
         </ul>
+        This App was developed by Elizabeth{" "}
+        <a
+          href="https://github.com/orahbaloyi1/React-Weather.git"
+          target="_blank"
+        >
+          githuh
+        </a>
       </div>
     </>
   );
